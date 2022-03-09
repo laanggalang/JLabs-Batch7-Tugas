@@ -1,0 +1,1 @@
+{"uuid":"473d33a3-4cc9-4d4d-b2b8-5a9953801f65","name":"february2022.tugas3.BaseWebTest.quitChromeDriver","description":"","start":1646042110337,"stop":1646042111029,"children":["723018ec-56f7-427b-9246-c9740ba8f965"],"afters":[{"name":"quitChromeDriver","status":"passed","stage":"finished","description":"","start":1646042110337,"stop":1646042111029}]}
